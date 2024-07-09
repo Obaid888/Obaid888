@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://github.com/usmanyousaaf">
+<a href="https://github.com/Obaid888">
     <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=800&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Usman+Yousaf;Researcher+%7C+BS+AI+Graduate+%7C+LLMs+%7C+NLP+%7C+ML%26DL" alt="Typing SVG" />
 </a>
 <br/>
@@ -8,20 +8,20 @@
 <!--<a href="https://medium.com">
     <img src="https://img.shields.io/badge/Website-medium-red?style=flat-square">
 </a>  -->
-<a href="https://www.linkedin.com/in/usmanyousaaf">
+<a href="https://www.linkedin.com/in/Obaid888">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&color=white">
 </a>
-<a href="https://instagram.com/usmanyousaaf">
+<a href="https://instagram.com/Obaid888">
     <img src="https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=instagram&color=lightpink">
 </a>
-<a href="mailto:usmanyousafpersonal@gmail.com">
+<a href="mailto:Obaidkhan995@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 <br/> 
 
-<a href="https://github.com/usmanyousaaf">
-    <img src="https://github-stats-alpha.vercel.app/api?username=usmanyousaaf&cc=22272e&width=500px&tc=9745F5&ic=fff&bc=0000">
+<a href="https://github.com/Obaid888">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Obaid888&cc=22272e&width=500px&tc=9745F5&ic=fff&bc=0000">
 </a>
 
 </p>
@@ -40,9 +40,9 @@
 My Github Stats
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanyousaaf&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Obaid888&theme=aura) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanyousaaf&theme=aura) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmanyousaaf&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Obaid888&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Obaid888&theme=aura)
 
 </details>
