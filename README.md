@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/Obaid888">
     <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=800&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Obaid888;Researcher+%7C+BS+AI+Graduate+%7C+LLMs+%7C+NLP+%7C+ML%26DL" alt="Typing SVG" />
-</a>
+</a> 
 <br/>
 
 <!--<a href="https://medium.com">
